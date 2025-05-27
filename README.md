@@ -26,22 +26,6 @@ Certifique-se de ter o Expo CLI instalado. Caso não tenha, instale com:
 npm install -g expo-cli
 ```
 ### Funcionalidades
-Adicionar tarefas à lista.
-
-Exibir as tarefas adicionadas.
-
-Feedback ao usuário ao adicionar uma tarefa.
-
-
-
-### Estrutura do Projeto
-```
-FIAPLANNER/
-│── components/
-│   ├── button.js
-│   ├── listaTarefas.js
-│── assets/
-│── App.js
-│── package.json
-│── README.md
-```
+- Adicionar tarefas à lista.
+- Exibir as tarefas adicionadas.
+- Feedback ao usuário ao adicionar uma tarefa.
